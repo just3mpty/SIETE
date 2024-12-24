@@ -8,7 +8,7 @@ module.exports = {
             activities: [
                 {
                     type: ActivityType.Listening,
-                    name: "Khali - FOREVER",
+                    name: "Empty7 - pour le gang",
                 },
             ],
             status: "Online",
