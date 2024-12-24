@@ -31,7 +31,7 @@ module.exports = {
         // VERIFICATION DES ROLES
         const MOD = "1320777165557600388";
 
-        const allowedRoles = [MOD, STAFF, DEV];
+        const allowedRoles = [MOD];
         const userRole = interaction.member.roles.cache;
         const isAllowed = userRole.some((role) =>
             allowedRoles.includes(role.id)
@@ -51,7 +51,7 @@ module.exports = {
         const questionEmbed = new EmbedBuilder()
             .setTitle("De quel morceau provient cette punchline ?")
             .setDescription(`${item.question} 🎶`)
-            .setColor(0x0096c7);
+            .setColor(0x0a0a0a);
         const timesUpEmbed = new EmbedBuilder()
             .setTitle("Temps écoulé !")
             .setDescription(`La réponse était : **${item.final}**`)

@@ -41,7 +41,7 @@ module.exports = {
             const scoreEmbed = new EmbedBuilder()
                 .setTitle("Tableau des scores !")
                 .setDescription("Voici le Top 4 des joueurs :")
-                .setColor(0x0096c7)
+                .setColor(0x0a0a0a)
                 .setThumbnail(client.user.displayAvatarURL());
 
             players.forEach((player, index) => {

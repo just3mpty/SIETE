@@ -1,7 +1,462 @@
 [
     {
-        "question": "*Quand elle blow, blow, blow*",
-        "answers": ["piege"],
-        "final": "**Piège**"
+        "question": "*J'ai mené des batailles j'ai jamais fais d'battle*",
+        "answers": ["zon"],
+        "final": "**ZON**"
+    },
+    {
+        "question": "*Je reflète la lumière mais je suis noir au fond, comme boule à facettes.*",
+        "answers": ["zon"],
+        "final": "**ZON**"
+    },
+    {
+        "question": "*J'suis triste, pas d'douche depuis 4 jours c'est dedans qu'c'est sale.*",
+        "answers": ["zon"],
+        "final": "**ZON**"
+    },
+    {
+        "question": "*Shlass dans la chaussette au cas où la patate a été évitée.*",
+        "answers": ["daynnight", "daynight", "dayandnight"],
+        "final": "**Day N Night**"
+    },
+    {
+        "question": "*On veut la moula du Qatar, j'ai détalé pour éviter gardav'*",
+        "answers": ["daynnight", "daynight", "dayandnight"],
+        "final": "**Day N Night**"
+    },
+    {
+        "question": "*Maintenant j'suis calme, maintenant j'suis vrai*",
+        "answers": ["daynnight", "daynight", "dayandnight"],
+        "final": "**Day N Night**"
+    },
+    {
+        "question": "*Tu fumais la hollandaise en bas de la tess, j'me balade en sifflotant*",
+        "answers": ["paslesmemes"],
+        "final": "**Pas les mêmes**"
+    },
+    {
+        "question": "*Y'a des gars qu'ont gé-chan*",
+        "answers": ["paslesmemes"],
+        "final": "**Pas les mêmes**"
+    },
+    {
+        "question": "*J'me casse d'la ress si y'a des boloss qui retournent leur veste sans cesse*",
+        "answers": ["paslesmemes"],
+        "final": "**Pas les mêmes**"
+    },
+    {
+        "question": "*T'as beau me dire c'que tu veux, mais en réel j'me fous d'ton avis*",
+        "answers": ["avouer"],
+        "final": "**Avouer**"
+    },
+    {
+        "question": "*J'ai trop d'fierté pour t'avouer*",
+        "answers": ["avouer"],
+        "final": "**Avouer**"
+    },
+    {
+        "question": "*Ouais frérot faut l'seill-o pour voir le monde d'en haut*",
+        "answers": ["loindici"],
+        "final": "**Loin d'ici**"
+    },
+    {
+        "question": "*Le coeur froid comme l'hiver*",
+        "answers": ["loindici"],
+        "final": "**Loin d'ici**"
+    },
+    {
+        "question": "*Mets la cagoule et les gants, ouais j'ai préparé un plan*",
+        "answers": ["movie"],
+        "final": "**Movie**"
+    },
+    {
+        "question": "*Viens on l'fait à deux*",
+        "answers": ["movie"],
+        "final": "**Movie**"
+    },
+    {
+        "question": "*A deux on va faire les euros*",
+        "answers": ["movie"],
+        "final": "**Movie**"
+    },
+    {
+        "question": "*Maman tu n'dois plus t'inquiéter j'suis entouré de vrais frères*",
+        "answers": ["demain"],
+        "final": "**Demain**"
+    },
+    {
+        "question": "*Même seul j'ai toujours porté mes couilles*",
+        "answers": ["demain"],
+        "final": "**Demain**"
+    },
+    {
+        "question": "*Les choses ont changées aujourd'hui je le sais*",
+        "answers": ["demain"],
+        "final": "**Demain**"
+    },
+    {
+        "question": "*Poto ils ont pris mon âme, ils ont pris mon âme*",
+        "answers": ["dernier"],
+        "final": "**Dernier**"
+    },
+    {
+        "question": "*J'ai perdu des frères, j'ai perdu des soeurs, pas à cause d'la guerre mais à cause d'mon coeur*",
+        "answers": ["dernier"],
+        "final": "**Dernier**"
+    },
+    {
+        "question": "*Est-ce que tu sais c'que ça fait de vivre dans un corps vide ?*",
+        "answers": ["dernier"],
+        "final": "**Dernier**"
+    },
+    {
+        "question": "*Plan A c'était de pas mourir, vivre c'est le plan B*",
+        "answers": ["dernier"],
+        "final": "**Dernier**"
+    },
+    {
+        "question": "*Si vous saviez tout c'que j'voudrais qu'vous sachiez*",
+        "answers": ["dernier"],
+        "final": "**Dernier**"
+    },
+    {
+        "question": "*J'dois le faire juste pour l'honneur, pour moi, pour mes frères*",
+        "answers": ["2on"],
+        "final": "**2ON**"
+    },
+    {
+        "question": "*On fait pas la teuf, toi bagarre nous c'est la guerre du Golf*",
+        "answers": ["2on"],
+        "final": "**2ON**"
+    },
+    {
+        "question": "*J'bibi des toplines à des majors j'suis même pas crédité*",
+        "answers": ["2on"],
+        "final": "**2ON**"
+    },
+    {
+        "question": "*C'est nous on vis c'qu'ils ont dit dans leurs sons*",
+        "answers": ["2on"],
+        "final": "**2ON**"
+    },
+    {
+        "question": "*C'est nous on vient gâcher ta fête*",
+        "answers": ["chose"],
+        "final": "**CHOSE**"
+    },
+    {
+        "question": "*S'il commence à faire chaud on arrose, ici c'est nous on distribue les doses*",
+        "answers": ["chose"],
+        "final": "**CHOSE**"
+    },
+    {
+        "question": "*Ici personne m'impressionne*",
+        "answers": ["chose"],
+        "final": "**CHOSE**"
+    },
+    {
+        "question": "*Il a vesqui la droite mais pas le middle dans le foie*",
+        "answers": ["chose"],
+        "final": "**CHOSE**"
+    },
+    {
+        "question": "*J'frappe pas les meufs j'suis pas Chris Brown*",
+        "answers": ["j/j", "jj"],
+        "final": "**J/J**"
+    },
+    {
+        "question": "*Elles sont dans l'erreur, que deux dans mon coeur, y'a maman et y'a ...*",
+        "answers": ["j/j", "jj"],
+        "final": "**J/J**"
+    },
+    {
+        "question": "*Y'a quelque chose qui pue fort dans l'caisson*",
+        "answers": ["j/j", "jj"],
+        "final": "**J/J**"
+    },
+    {
+        "question": "*Peut-être que t'es comme moi, tu t'es perdus parce qu'tu t'cherchais*",
+        "answers": ["j/j", "jj"],
+        "final": "**J/J**"
+    },
+    {
+        "question": "*La cadence s'accélère oh baby j'suis fait pour ça*",
+        "answers": ["q5"],
+        "final": "**Q5**"
+    },
+    {
+        "question": "*Côté passager l'bras dehors*",
+        "answers": ["q5"],
+        "final": "**Q5**"
+    },
+    {
+        "question": "*J'fume que des garos fuill benef sur la quette*",
+        "answers": ["q5"],
+        "final": "**Q5**"
+    },
+    {
+        "question": "*Baby mama est trop gang*",
+        "answers": ["q5"],
+        "final": "**Q5**"
+    },
+    {
+        "question": "*J'la pull up comme dans un film, elle me dit que c'est la nièce à Luc Besson*",
+        "answers": ["nikecomplet"],
+        "final": "**NIKE COMPLET**"
+    },
+    {
+        "question": "*Sur les mains du sang il y a, J'sais même plus combien ça coûte*",
+        "answers": ["nikecomplet"],
+        "final": "**NIKE COMPLET**"
+    },
+    {
+        "question": "*Ici nous joue pas la carte de l'ancien*",
+        "answers": ["nikecomplet"],
+        "final": "**NIKE COMPLET**"
+    },
+    {
+        "question": "*Dans leurs phases ils parlent de guerre mais bégayent quand faut la faire*",
+        "answers": ["nikecomplet"],
+        "final": "**NIKE COMPLET**"
+    },
+    {
+        "question": "*Un oeil sur chaque putain d'barage de keufs*",
+        "answers": ["woe"],
+        "final": "**WOE**"
+    },
+    {
+        "question": "*Tu parles mme-gra, kil', tonnes, mais t'es comme ta go t'es bon qu'a t'faire pull-up en hilton*",
+        "answers": ["woe"],
+        "final": "**WOE**"
+    },
+    {
+        "question": "*Ils veulent la castagne on la donne*",
+        "answers": ["woe"],
+        "final": "**WOE**"
+    },
+    {
+        "question": "*J'arrive cagoulé dans la pièce*",
+        "answers": ["woe"],
+        "final": "**WOE**"
+    },
+    {
+        "question": "*Tout le monde connait sa glotte elle vient nous faire des manières*",
+        "answers": ["woe"],
+        "final": "**WOE**"
+    },
+    {
+        "question": "*Tu vas dormir si tu tires une autre barre*",
+        "answers": ["delicatesse"],
+        "final": "**DÉLICATESSE**"
+    },
+    {
+        "question": "*Y'a 6 visages masqués entassés dans une 3 portes*",
+        "answers": ["delicatesse"],
+        "final": "**DÉLICATESSE**"
+    },
+    {
+        "question": "*C'est moi l'toubab du fond d'la classe*",
+        "answers": ["delicatesse"],
+        "final": "**DÉLICATESSE**"
+    },
+    {
+        "question": "*Billets couleur améthyste*",
+        "answers": ["delicatesse"],
+        "final": "**DÉLICATESSE**"
+    },
+    {
+        "question": "*Si l'projet sort c'est qu'j'suis peut-être pas tombé*",
+        "answers": ["fini"],
+        "final": "**FINI**"
+    },
+    {
+        "question": "*J'veux pas qu'on m'voit moi j'veux qu'on m'entende*",
+        "answers": ["fini"],
+        "final": "**FINI**"
+    },
+    {
+        "question": "*C'est dur quand tu deviens le méchant de l'histoire*",
+        "answers": ["fini"],
+        "final": "**FINI**"
+    },
+    {
+        "question": "*Je suis pas comme tout vos rappeurs*",
+        "answers": ["fini"],
+        "final": "**FINI**"
+    },
+    {
+        "question": "*Ceux qui décrivent bien la bagarre c'est ceux qui étaient derrière*",
+        "answers": ["fini"],
+        "final": "**FINI**"
+    },
+    {
+        "question": "*Maman des années sont passées, j'ai enfin appris à faire mes lacets*",
+        "answers": ["depuisledepart"],
+        "final": "**Depuis le départ**"
+    },
+    {
+        "question": "*La réalité a serrer les menottes*",
+        "answers": ["depuisledepart"],
+        "final": "**Depuis le départ**"
+    },
+    {
+        "question": "*Je suis sorti de l'enfer en peignoir*",
+        "answers": ["depuisledepart"],
+        "final": "**Depuis le départ**"
+    },
+    {
+        "question": "*Je n'veux plus regarder le monde je veux l'changer*",
+        "answers": ["depuisledepart"],
+        "final": "**Depuis le départ**"
+    },
+    {
+        "question": "*On m'a donné le nom d'un mort*",
+        "answers": ["lacrimosa"],
+        "final": "**Lacrimosa**"
+    },
+    {
+        "question": "*Check de la droite et puis pisse de la gauche*",
+        "answers": ["lacrimosa"],
+        "final": "**Lacrimosa**"
+    },
+    {
+        "question": "*Ils surveillent le ciel mais ça vient d'en bas*",
+        "answers": ["lacrimosa"],
+        "final": "**Lacrimosa**"
+    },
+    {
+        "question": "*Liasses entassées sous le matelas t'inquiète pas je ferais de beaux rêves*",
+        "answers": ["lacrimosa"],
+        "final": "**Lacrimosa**"
+    },
+    {
+        "question": "*J'ai pas l'agenda pour des jours meilleurs*",
+        "answers": ["gangsigns"],
+        "final": "**Gang signs**"
+    },
+    {
+        "question": "*Ils portent l'oeil toute l'année c'est des cappeurs*",
+        "answers": ["gangsigns"],
+        "final": "**Gang signs**"
+    },
+    {
+        "question": "*BLV en loge et ça sent l'teh*",
+        "answers": ["gangsigns"],
+        "final": "**Gang signs**"
+    },
+    {
+        "question": "*Ca va vite comme dans un film d'action*",
+        "answers": ["gangsigns"],
+        "final": "**Gang signs**"
+    },
+    {
+        "question": "*J'suis tombé si j'suis en retard*",
+        "answers": ["gangsigns"],
+        "final": "**Gang signs**"
+    },
+    {
+        "question": "*Demande à Wolph dans la caisse impliqués à la mort y'a personne qui lé-par*",
+        "answers": [
+            "nemattendpas",
+            "mattendpas",
+            "nemattendspas",
+            "mattendspas"
+        ],
+        "final": "**Ne m'attends pas**"
+    },
+    {
+        "question": "*Les deux mains dans la boue, capuché j'oublie tout*",
+        "answers": [
+            "nemattendpas",
+            "mattendpas",
+            "nemattendspas",
+            "mattendspas"
+        ],
+        "final": "**Ne m'attends pas**"
+    },
+    {
+        "question": "*Jamais hors de combat*",
+        "answers": [
+            "nemattendpas",
+            "mattendpas",
+            "nemattendspas",
+            "mattendspas"
+        ],
+        "final": "**Ne m'attends pas**"
+    },
+    {
+        "question": "*J'étais mal aimé demande plus jamais pourquoi sur les photos j'suis pas là*",
+        "answers": [
+            "nemattendpas",
+            "mattendpas",
+            "nemattendspas",
+            "mattendspas"
+        ],
+        "final": "**Ne m'attends pas**"
+    },
+    {
+        "question": "*Encore loin d'en haut on voit rien d'en bas*",
+        "answers": ["mercidetrepasse"],
+        "final": "**Merci d'être,passé**"
+    },
+    {
+        "question": "*Même les chiens aboient quand ils me voient au loin*",
+        "answers": ["mercidetrepasse"],
+        "final": "**Merci d'être,passé**"
+    },
+    {
+        "question": "*Et je repars faire un tour dans le hood*",
+        "answers": ["mercidetrepasse"],
+        "final": "**Merci d'être,passé**"
+    },
+    {
+        "question": "*J'me carbonise les poumons, faut atténuer les bruits d'en bas*",
+        "answers": ["mercidetrepasse"],
+        "final": "**Merci d'être,passé**"
+    },
+    {
+        "question": "*Ca s'aggrave j'repense à ma mère*",
+        "answers": ["mercidetrepasse"],
+        "final": "**Merci d'être,passé**"
+    },
+    {
+        "question": "*A 10 ans j'serrais la ceinture de mon peignoir autour du cou*",
+        "answers": ["chaquemois", "bouhbier1", "#bouhbier1"],
+        "final": "**Chaque mois (#Bouhbier1)**"
+    },
+    {
+        "question": "*Elle m'trompait pendant que j'lui disait que ma miff se brisait, que je sentais les ténèbres gagner*",
+        "answers": ["chaquemois", "bouhbier1", "#bouhbier1"],
+        "final": "**Chaque mois (#Bouhbier1)**"
+    },
+    {
+        "question": "*Dieu m'a abandonné depuis ma croix sur l'calendrier*",
+        "answers": ["chaquemois", "bouhbier1", "#bouhbier1"],
+        "final": "**Chaque mois (#Bouhbier1)**"
+    },
+    {
+        "question": "*Va t'rincer, j'sers pas la main à ceux qui changent d'amis chaque mois*",
+        "answers": ["chaquemois", "bouhbier1", "#bouhbier1"],
+        "final": "**Chaque mois (#Bouhbier1)**"
+    },
+    {
+        "question": "*Je te follow mais je te suis pas*",
+        "answers": ["distant"],
+        "final": "**Distant**"
+    },
+    {
+        "question": "*J'ai vraiment l'impression de ne plus être humain*",
+        "answers": ["distant"],
+        "final": "**Distant**"
+    },
+    {
+        "question": "*Le jour de ma mort je veux que tout les miens rigolent*",
+        "answers": ["distant"],
+        "final": "**Distant**"
+    },
+    {
+        "question": "*Je lâche une pensée à tout ceux qui sont coffrés*",
+        "answers": ["distant"],
+        "final": "**Distant**"
     }
 ]
