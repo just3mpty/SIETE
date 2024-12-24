@@ -1,16 +1,16 @@
 {
-  "name": "siete",
-  "version": "1.0.0",
-  "description": "Empty7's discord server custom bot",
-  "main": "bot.js",
-  "scripts": {
-    "test": "node ."
-  },
-  "author": "3mpty",
-  "license": "ISC",
-  "dependencies": {
-    "discord.js": "^14.16.3",
-    "dotenv": "^16.4.7",
-    "mongodb": "^6.12.0"
-  }
+    "name": "siete",
+    "version": "1.0.0",
+    "description": "Empty7's discord server custom bot",
+    "main": "src/bot.js",
+    "scripts": {
+        "test": "node ."
+    },
+    "author": "3mpty",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^14.16.3",
+        "dotenv": "^16.4.7",
+        "mongoose": "^8.9.2"
+    }
 }
